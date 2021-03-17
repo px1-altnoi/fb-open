@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+ 
+[HKEY_CLASSES_ROOT\fbopen]
+@="URL:Open with File Explorer"
+"URL Protocol"=""
+ 
+[HKEY_CLASSES_ROOT\fbopen\DefaultIcon]
+ 
+[HKEY_CLASSES_ROOT\fbopen\shell]
+ 
+[HKEY_CLASSES_ROOT\fbopen\shell\open]
+ 
+[HKEY_CLASSES_ROOT\fbopen\shell\open\command]
+@="\"C:\\fb_opener\\fb_bootstrap.exe\" \"%1\""
