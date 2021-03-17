@@ -11,4 +11,4 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\fbopen\shell\open]
  
 [HKEY_CLASSES_ROOT\fbopen\shell\open\command]
-@="\"C:\\fb_open\\fb_bootstrap.exe\" \"%1\""
+@="\"C:\\fb-open\\fb_bootstrap.exe\" \"%1\""
